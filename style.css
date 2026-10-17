@@ -1,8 +1,10 @@
 h1{
     color:crimson ;
-    text-align: left
+    text-align: left;
+    background-color: white;
 }
 
 img {
    border-radius: 25%;
+   width: 70%
 }
