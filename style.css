@@ -7,4 +7,10 @@ h1{
 img {
    border-radius: 25%;
    width: 10%
-}
+} 
+ html{
+    scroll-behavior: smooth;
+    scroll-padding-top: 90px;
+
+ }
+ img{max-width: 100%;}
